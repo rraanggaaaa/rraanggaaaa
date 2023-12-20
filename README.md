@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge.isuue.1.left_color=pink.right_color=blue)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge.issue.1)
 <p/>
 ---
 
