@@ -2,9 +2,19 @@
 <img src="https://github.com/master/gifs/" width="30"></h2>
 </div> -->
 
+```ls
+<!-- Lesson -->
+
+`Hi there, currently learn Flutter from 0.`
+```
+
 <div align="center">
 - 🌱 I’m currently learning Flutter
+</div>
+<div align="center">
 - 👋 Hit me up: rraanggaaaa.github.io
+</div>
+<div align="center">
 - 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
 </div>
 
