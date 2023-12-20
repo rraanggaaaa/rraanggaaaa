@@ -47,6 +47,11 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/rraanggaaaa.github/count.svg" />
+
+</div>
 ---
 
 **Github Stats:**
