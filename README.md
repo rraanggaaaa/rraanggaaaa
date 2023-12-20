@@ -10,10 +10,10 @@
 
 <div>
   
-```ciao
+```py
 <!-- ciao -->
 
-`ciao, i'm Rangga and currently learn Flutter from 0`
+`ciao, i'm Rangga and currently learn Flutter from 0. just check my repo.`
 ```
 
 </div>
