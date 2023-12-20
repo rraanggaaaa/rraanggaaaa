@@ -35,7 +35,7 @@
 **Github Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rraanggaaaa&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa&count_private=true&theme=dracula&line_height=10">
 </p>
 
  ---
@@ -51,7 +51,7 @@
  ---
 
 <p align="center">
-  <i>Jokes<br>
+  <i>Jokes<br><br>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
 </p>
 ---
