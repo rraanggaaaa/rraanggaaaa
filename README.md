@@ -31,7 +31,7 @@
 🍀: I’m currently learning Flutter
 </div>
 <div align="center">
-🤌: Hit me up: rraanggaaaa.github.io
+🤌: Hit me up: rraanggaaaa.my.id
 </div>
 <div align="center">
 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
