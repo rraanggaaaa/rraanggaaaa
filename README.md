@@ -10,7 +10,7 @@
 
 <div>
   
-```html
+```ls
 <!-- ciao -->
 
 `ciao, i'm Rangga and currently learn Flutter from 0. just check my repo.`
