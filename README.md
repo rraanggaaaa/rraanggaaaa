@@ -15,17 +15,17 @@
 ---
 
 <p align="center">
-  <i>Lemme tell u a Joke:<br><br></i>
+  <i>Lemme tell u a Joke🤡:<br><br></i>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
 </p>
     
 ---
     
 <div align="center">
-- 🌱 I’m currently learning Flutter
+- 🍀: I’m currently learning Flutter
 </div>
 <div align="center">
-- 👋 Hit me up: rraanggaaaa.github.io
+- 🤌: Hit me up: rraanggaaaa.github.io
 </div>
 <div align="center">
 - 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
@@ -60,3 +60,7 @@
 </p>
 
  ---
+
+<div align="center">
+- hope u like it 💗:
+</div>
