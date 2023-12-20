@@ -10,7 +10,7 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge.issue.1.left_color=pink.right_color=blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge.left_color=pink.right_color=blue)
 
 ---
 
