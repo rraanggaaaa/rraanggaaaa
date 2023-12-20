@@ -40,16 +40,8 @@
 ---
 
 <div align="center">
-  
-**Visitor Count:**
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=/rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Stalker)
-
-</div>
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/rraanggaaaa.github.io/count.svg" />
+<img src="https://profile-counter.glitch.me/rraanggaaaa.github/count.svg" />
 
 </div>
 ---
