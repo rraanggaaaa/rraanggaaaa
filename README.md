@@ -12,6 +12,15 @@
 
 </div>
 
+---
+
+<p align="center">
+  <i>Lemme tell u a Joke:<br><br>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
+</p>
+    
+---
+    
 <div align="center">
 - 🌱 I’m currently learning Flutter
 </div>
@@ -25,8 +34,9 @@
 ---
 
 <div align="center">
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Visitors)
+**Visitor Count:**
+  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Stalker)
 
 </div>
 
@@ -49,9 +59,3 @@
 </p>
 
  ---
-
-<p align="center">
-  <i>Jokes<br><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
-</p>
----
