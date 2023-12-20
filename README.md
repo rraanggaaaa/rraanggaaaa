@@ -2,14 +2,20 @@
 <img src="https://github.com/master/gifs/" width="30"></h2>
 </div> -->
 
-Markdown method:
-`Hi there, currently learn Flutter from 0.`
-<br/>
 
+<div align="center">
+
+```ls
+<!-- Lesson -->
+
+`Hi there, currently learn Flutter from 0.`
+```
 
 - 🌱 I’m currently learning Flutter
 - 👋 Hit me up: rraanggaaaa.github.io
 - 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
+
+</div>
 
 ---
 
