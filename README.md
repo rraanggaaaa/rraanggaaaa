@@ -9,9 +9,11 @@
 ```
 
 <div align="center">
+  
 - 🌱 I’m currently learning Flutter
 - 👋 Hit me up: rraanggaaaa.github.io
 - 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
+
 </div>
 
 ---
