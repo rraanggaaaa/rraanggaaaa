@@ -37,12 +37,12 @@
   
 **Visitor Count:**
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=/rraanggaaaa.github.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Stalker)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=/rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Stalker)
 
 </div>
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/rraanggaaaa.github/count.svg" />
+<img src="https://profile-counter.glitch.me/rraanggaaaa/count.svg" />
 
 </div>
 ---
