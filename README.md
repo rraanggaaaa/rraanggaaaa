@@ -8,7 +8,7 @@
 - 👋 Hit me up: rraanggaaaa.github.io
 - 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.rraanggaaaa)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge.isuue.1&left_color=pink&right_color=blue)
 
 ---
 
