@@ -2,11 +2,15 @@
 <img src="https://github.com/master/gifs/" width="30"></h2>
 </div> -->
 
+<div>
+  
 ```ls
 <!-- Lesson -->
 
 `Hi there, currently learn Flutter from 0.`
 ```
+
+</div>
 
 <div align="center">
 - 🌱 I’m currently learning Flutter
