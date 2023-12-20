@@ -62,5 +62,5 @@
  ---
 
 <div align="center">
-hope u like it, ciao 💗 - "rraanggaaaa.
+"hope u like it, ciao 💗" - rraanggaaaa
 </div>
