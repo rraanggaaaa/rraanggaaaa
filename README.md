@@ -10,7 +10,11 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge)
+<p align="center">
+  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge&left_color=pink&right_color=blue&left_text=Hello%20Visitors)
+
+</p>
 
 ---
 
