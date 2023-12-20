@@ -2,7 +2,10 @@
 <img src="https://github.com/master/gifs/" width="30"></h2>
 </div> -->
 
-### Hi there, currently learn Flutter from 0. 
+Image method:
+`Hi there, currently learn Flutter from 0.`
+<br/>
+
 
 - 🌱 I’m currently learning Flutter
 - 👋 Hit me up: rraanggaaaa.github.io
@@ -10,11 +13,11 @@
 
 ---
 
-<p align="center">
-  
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge&left_color=pink&right_color=blue&left_text=Hello%20Visitors)
+<div align="center">
 
-</p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Visitors)
+
+</div>
 
 ---
 
@@ -36,13 +39,8 @@
 
  ---
 
- 
-### :zap: Recent Github Activity
-
----
-
 <p align="center">
-  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  <i>Jokes #clown
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
 </p>
 ---
