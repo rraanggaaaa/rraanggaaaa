@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://github.com/rraanggaaaa/rraanggaaaa/blob/main/assets/banner.png" width="30" height="10"></h2>
+<img src="https://github.com/rraanggaaaa/rraanggaaaa/blob/main/assets/banner.png" width="auto" height="auto"></h2>
 </div>
+
+---
 
 <div>
   
