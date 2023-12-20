@@ -7,7 +7,7 @@
 ```ls
 <!-- Lesson -->
 
-`Hi there, currently learn Flutter from 0.`
+`ciao, i'm Rangga and currently learn Flutter from 0. just check my repo`
 ```
 
 </div>
@@ -22,13 +22,13 @@
 ---
     
 <div align="center">
-- 🍀: I’m currently learning Flutter
+🍀: I’m currently learning Flutter
 </div>
 <div align="center">
-- 🤌: Hit me up: rraanggaaaa.github.io
+🤌: Hit me up: rraanggaaaa.github.io
 </div>
 <div align="center">
-- 📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
+📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
 </div>
 
 ---
@@ -62,5 +62,5 @@
  ---
 
 <div align="center">
-- hope u like it 💗:
+hope u like it, ciao 💗 - "rraanggaaaa.
 </div>
