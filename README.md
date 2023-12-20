@@ -2,7 +2,7 @@
 <img src="https://github.com/master/gifs/" width="30"></h2>
 </div> -->
 
-Image method:
+Markdown method:
 `Hi there, currently learn Flutter from 0.`
 <br/>
 
@@ -40,7 +40,7 @@ Image method:
  ---
 
 <p align="center">
-  <i>Jokes #clown
+  <i>Jokes<br>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=halloween" alt="README Jokes"></a>
 </p>
 ---
