@@ -56,7 +56,7 @@
 **Github Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rraanggaaaa&count_private=true&include_all_commits=true&show_icons=true&theme=ambient_gradient&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa&layout=pie">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa&theme=dracula&layout=pie">
 </p>
 
  ---
