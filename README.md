@@ -34,7 +34,7 @@
 🤌: Take a look: rraanggaaaa.my.id
 </div>
 <div align="center">
-📫 How to reach me: rraanggaaaa@rraanggaaaa.my.id
+📫 How to reach me: dwiranggaoktaz@gmail.com
 </div>
 
 ---
