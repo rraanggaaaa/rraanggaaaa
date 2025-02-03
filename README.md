@@ -31,7 +31,7 @@
 🍀: I’m currently use React Express 
 </div>
 <div align="center">
-🤌: Take a look: rraanggaaaa.my.id
+🤌: Take a look: www.rraanggaaaa.my.id
 </div>
 <div align="center">
 📫 How to reach me: dwiranggaoktaz@gmail.com
