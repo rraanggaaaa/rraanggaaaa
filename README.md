@@ -42,22 +42,13 @@
 <!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=/rraanggaaaa.visitor-badge&left_color=red&right_color=blue&left_text=Hello%20Stalker)-->
 <div align="center">
   
-**Visitor Count:**
-
-</div>
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/rraanggaaaa.github/count.svg" />
-
-</div>
 ---
 
 **Github Stats:**
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=rraanggaaaa&count_private=true&include_all_commits=true&show_icons=true&theme=ambient_gradient&line_height=33"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=rraanggaaaa&show_icons=true&theme=ambient_gradient&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa&langs_count=3&layout=pie">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraanggaaaa">
 </p>
 
  ---
